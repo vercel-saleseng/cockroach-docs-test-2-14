@@ -5,6 +5,8 @@ toc: true
 docs_area: reference.sql
 ---
 
+making a change here
+
 The `ALTER TABLE` [statement](sql-statements.html) changes the definition of a table. For information on using `ALTER TABLE`, see the pages for its [subcommands](#subcommands).
 
 {{site.data.alerts.callout_info}}
