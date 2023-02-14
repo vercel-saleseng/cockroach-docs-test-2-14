@@ -5,6 +5,8 @@ toc: true
 docs_area: reference.sql
 ---
 
+A change is here
+
 The `ALTER INDEX` [statement](sql-statements.html) applies a [schema change](online-schema-changes.html) to an index.
 
 {{site.data.alerts.callout_info}}
