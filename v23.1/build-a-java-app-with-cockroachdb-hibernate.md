@@ -11,6 +11,8 @@ docs_area: get_started
 
 This tutorial shows you how build a simple Java application with CockroachDB and the Hibernate ORM.
 
+another test is here
+
 {% include {{page.version.version}}/app/java-version-note.md %}
 
 {{site.data.alerts.callout_success}}
