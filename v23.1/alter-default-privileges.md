@@ -6,6 +6,8 @@ toc: true
 docs_area: reference.sql
 ---
 
+another change
+
 The `ALTER DEFAULT PRIVILEGES` [statement](sql-statements.html) changes the [default privileges](security-reference/authorization.html#default-privileges) on objects created by [users/roles](security-reference/authorization.html#roles) in the current database.
 
 {{site.data.alerts.callout_info}}
